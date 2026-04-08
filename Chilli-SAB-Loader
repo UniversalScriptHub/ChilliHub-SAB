@@ -1,5 +1,5 @@
 task.spawn(function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/UniversalScriptHub/loadingvisual/refs/heads/main/1.0"))()  
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()  
 end)
 task.wait(0.2)
 
